@@ -1,6 +1,7 @@
 import './Form.css';
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 import { useState } from 'react';
+import React from 'react';
 
 
 const Formulario = () => {
